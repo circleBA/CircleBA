@@ -1,0 +1,6 @@
+robot: bumblebee
+rosbag: 20220513_1653_MobNavDepth_kibo_rpc_waypoint_test.bag
+recorded date: May 13 2022
+flying area: JEM module
+category: Intra-Vehicular Activity
+comment: Trajectory including both translational and rotational movements from the Kibo robot programming challenge(https://jaxa.krpc.jp/).
