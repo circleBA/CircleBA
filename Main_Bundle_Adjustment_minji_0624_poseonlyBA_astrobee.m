@@ -5,9 +5,9 @@ clear variables; %clear classes;
 %% preprocessing - only detected ellipse
 
 
-imagePath = 'data/ff_return_journey_forward/gray/';
-ellipsePath = 'data/ff_return_journey_forward/results_p2c/';
-posePath = 'data/ff_return_journey_forward/groundtruth.txt';
+imagePath = 'data_astrobee/ff_return_journey_forward/gray/';
+ellipsePath = 'data_astrobee/ff_return_journey_forward/results_p2c/';
+posePath = 'data_astrobee/ff_return_journey_forward/groundtruth.txt';
 % 
 % imagePath = 'data/ff_return_journey_left/gray/';
 % ellipsePath = 'data/ff_return_journey_left/results_p2c/';
